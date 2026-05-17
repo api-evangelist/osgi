@@ -26,7 +26,7 @@ common:
     url: https://docs.osgi.org/
   - type: Specifications
     url: https://docs.osgi.org/specification/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/osgi
 maintainers:
   - FN: Kin Lane
