@@ -24,7 +24,7 @@ common:
     url: https://www.osgi.org/
   - type: Documentation
     url: https://docs.osgi.org/
-  - type: Specifications
+  - type: Specification
     url: https://docs.osgi.org/specification/
   - type: GitHubOrganization
     url: https://github.com/osgi
