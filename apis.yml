@@ -6,7 +6,18 @@ description: >-
   life cycle, dependencies, and services of bundles at runtime. OSGi is a
   Java/JVM technology and does not expose REST APIs of its own.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/osgi.png
 tags:
   - OSGi
   - Java
